@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Voo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_voo_opcoes">Escolha suas opções.</string>
+    <string name="label_voo_origem">Origem: </string>
+    <string name="label_voo_preco">Preço: </string>
+    <string name="label_voo_destino">Destino: </string>
+    <string name="label_voo_data">Data (00/00/0000): </string>
+    <string name="label_voo_data_detalhe">Data: </string>
+    <string name="label_voo_nome">Nome: </string>
+
+    <string name="title_activity_lista_voo">Lista de Voos</string>
+
+    <string name="txt_lista_voos">Nenhuma voo encontrado</string>
+    <string name="title_activity_detalhe_voo">Voo Escolhido</string>
+
+    <string-array name="aeroportos">
+        <item>Escolha um aeroporto</item>
+        <item>Congonhas(SP)</item>
+        <item>Campinas(Interior)</item>
+        <item>Rio de janeiro(RJ)</item>
+        <item>Bahia</item>
+    </string-array>
+
+
+    <string name="botao_enviar_melhor">Consultar</string>
+    <string name="title_activity_linha_voo">linha_voo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_lista_voo">activity_lista_voo</string>
+    <string name="title_activity_activity_detalhe_voo">activity_detalhe_voo</string>
+
+</resources>
+
